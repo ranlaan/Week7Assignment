@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.exe
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.deps.json
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.dll
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\bin\Debug\netcoreapp3.1\FirstNameReverse.pdb
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.dll
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.pdb
+C:\Users\opilane\source\repos\LOGitpe21\WeekSevenAssignment\FirstNameReverse\obj\Debug\netcoreapp3.1\FirstNameReverse.genruntimeconfig.cache
