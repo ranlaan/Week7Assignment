@@ -30,16 +30,19 @@ namespace LoginValidation
                 if ((login == "user1") && (password == "password1") && (PINcode == "1532"))
                 {
                     Console.WriteLine("Tere tulemast!");
+                    counter = 3;
                 }
                 else if ((login != "user1") && (password == "password1"))
                 {
                     counter = counter + 1;
                     Console.WriteLine("Midagi läks valesti. Proovi uuesti.");
+                    break;
                 }
                 else if ((login == "user1") && (password != "password1"))
                 {
                     counter = counter + 1;
                     Console.WriteLine("Midagi läks valesti. Proovi uuesti.");
+                    break;
                 }
             }
             
